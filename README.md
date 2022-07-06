@@ -1,5 +1,7 @@
 # Retail_analysis
 
+Here, I analyzed the retail dataset with apriori algorithm using Streamlit Framework
+
 Software Requirements:
 
 Pandas, Numpy, Streamlit Library, ML Algorithm
